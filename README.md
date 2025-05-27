@@ -57,7 +57,7 @@ We trained a **Random Forest Classifier** to predict a binary outcome:
   - Regional deprivation
 
 Visuals:
-- [ROC Curve](./roc_curve_project_early_turnaround_final.png)
+- [ROC Curve](./roc_curve_project_early_turnaround.png)
 - [Feature Importance](./feature_importance_project_early_turnaround.png)
 
 ---
